@@ -12,10 +12,6 @@ Desenvolver base sólida em Python para aplicação em projetos de tecnologia, c
 - Funções
 - Manipulação de dados
 
-## 🎯 Contexto
-
-Este repositório faz parte do meu processo de aprendizado de Python, aplicando meus conhecimentos no dia a dia.
-
 ## 📂 Organização
 
 Os conteúdos estão organizados por lugares de aprendizado:

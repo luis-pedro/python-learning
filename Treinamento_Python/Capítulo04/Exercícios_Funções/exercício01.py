@@ -1,3 +1,5 @@
-lista = [1,2,3,4,5,6,7,8,9,10]
+def pares():
+    for i in range(2, 21, 2):
+        print(i)
 
-print("Esses são todos os números da lista: ",lista)
+pares()
